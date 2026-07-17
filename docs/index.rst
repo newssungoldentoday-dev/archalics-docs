@@ -27,6 +27,10 @@ Contents
    introduction
    usage
    license
+   problem
+   solution
+   issue
+   reportabug
 
 Quick Start
 
