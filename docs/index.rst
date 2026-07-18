@@ -74,6 +74,7 @@ Contents
    solution
    issue
    reportabug
+   editions
 
 Indices and tables
 
