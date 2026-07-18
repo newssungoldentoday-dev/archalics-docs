@@ -75,6 +75,7 @@ Contents
    issue
    reportabug
    editions
+   links
 
 Indices and tables
 
