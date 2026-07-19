@@ -2,7 +2,11 @@ Links
 Archa License Documentation Links (ALDL)
 
 
-Welcome! Check our `official repo`_ and `docs site`_ and `made by Rogge`_.
+Welcome Links:
+`official repo`_
+`docs site`_
+`made by Rogge`_
+`license text`_
 
 .. toctree::
    license
