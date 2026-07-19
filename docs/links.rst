@@ -36,5 +36,4 @@ Welcome Links:
 .. _algebra calculator: https://tally.so/r/NpO0LN
 .. _archa license contributors list:
 https://hickory-rumba-a2f.notion.site/Archa-License-Contributors-List-3a1ef8102d1180d4bf56cbffeccfa8e3?source=copy_link
-.. _archa license forum:
-https://hickory-rumba-a2f.notion.site/Archa-License-Forum-3a1ef8102d11800581bad61d9195895f?source=copy_link
+
