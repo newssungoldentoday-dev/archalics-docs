@@ -11,8 +11,8 @@ Welcome Links:
 `anniversary edition`_ ,
 `github collaborators to archa license issue`_ ,
 `happy anniversary issue`_ ,
-`verification recaptcha`_ ,
-`algebra calculator`_ , 
+`verification recaptcha`_ , and
+`algebra calculator`_ 
  
 
 .. toctree::
